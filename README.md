@@ -48,7 +48,7 @@ I like starting with a small thing that actually works, then gradually adding fe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,zed" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
 
 </div>
 
@@ -238,7 +238,7 @@ Rust、Python、TypeScript、HTML / CSSなどを使って、Webアプリケー�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,zed" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
 
 </div>
 
