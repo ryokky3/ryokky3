@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm りょっきい!
+# Hi there! 👋 I'm ryokky3! (a.k.a rky)
 
 ## 🚀 About Me
 
@@ -188,7 +188,7 @@ Exploring how AI can be used effectively as a development partner while keeping 
 
 <br>
 
-# こんにちは！👋 りょっきいです！
+# こんにちは！👋 ryokky3です！(rkyとしても名乗ってます)
 
 ## 🚀 About Me
 
